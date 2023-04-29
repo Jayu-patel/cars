@@ -159,3 +159,8 @@
   margin-top: 20px;
   font-family: 'Playfair Display', serif;
 }
+@media (min-width: 768px){
+  .box4{
+    width: 60%
+  }
+}
